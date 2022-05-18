@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anugunj Naman</h1>
-<h3 align="center">My interests lies in computer vision and reinforcement learning. I enjoy working on AI/ML problems.</h3>
+<h3 align="center">Hi 👋, I'm Anugunj Naman</h3>
+<h4 align="center">My interests lies in computer vision and reinforcement learning. I enjoy working on AI/ML problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugunjnaman&label=Profile%20views&color=0e75b6&style=flat" alt="anugunjnaman" /> </p>
 
