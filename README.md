@@ -8,5 +8,4 @@
 - Few Shot Speech Emotion Recognition. [Fixed-MAML](https://arxiv.org/pdf/2101.01356.pdf)
 - Gender based Author Profiling of Tweets. [Multimodal Author Profiling System for Tweets](https://ieeexplore.ieee.org/abstract/document/9482514/)
 
-I like to work with Pytorch.
-,
+I like to work with Pytorch. 
