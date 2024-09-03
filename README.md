@@ -1,5 +1,5 @@
 <h5 align="left">Hi, I'm Anugunj Naman</h5>
-<p align="left">My interests lies in computer vision and reinforcement learning. I enjoy working on AI/ML problems.</p>
+<p align="left">My interests lies in applied machine learning.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugunjnaman&label=Profile%20views&color=0e75b6&style=flat" alt="anugunjnaman" /> </p>
 
 - Added [Convolution Vision Transformers (CvT)](https://arxiv.org/abs/2103.15808) to [🤗 Transformers Library](https://github.com/huggingface/transformers)
